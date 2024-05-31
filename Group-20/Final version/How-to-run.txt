@@ -1,0 +1,8 @@
+// Please make sure you have a version of node.js that's over 16.0.0
+// Download the file and open the directory on Visual Studio Code
+// Run the terminal and make sure you're using the directory 
+// Run NPM I or NPM install on the terminal
+// If faced with some issues replace it with NPM I --force
+// then you can run the code using NPM RUN DEV
+// The terminal should give you a link to your local host
+// Hold Ctrl and click on it

@@ -1,0 +1,49 @@
+[
+  {
+    "_id": 1,
+    "image": "/pizzahut.png",
+    "name": "Pizza-Hut",
+    "phone": "+90 555 34 8658",
+    "streetAddress": "405 Elm Street",
+    "postalCode": "34000",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "freeDelivery": false,
+    "isOpen": true,
+    "rating": 4.7,
+    "admins": ["admin1@example.com"],
+    "deliveryFee": 13
+  },
+  {
+    "_id": 2,
+    "image": "/dominos.png",
+    "name": "Domino's Pizza",
+    "phone": "+90 555 34 8658",
+    "streetAddress": "405 Elm Street",
+    "postalCode": "34000",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "freeDelivery": false,
+    "isOpen": true,
+    "rating": 3.5,
+    "admins": ["admin2@example.com"],
+    "orders": [{}],
+    "deliveryFee": 10
+  },
+  {
+    "_id": 3,
+    "image": "/little.png",
+    "name": "Little Ceaser's Pizza",
+    "phone": "+90 535 69 4208",
+    "streetAddress": "405 Tavuk Street",
+    "postalCode": "34000",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "freeDelivery": true,
+    "isOpen": true,
+    "rating": 4.3,
+    "admins": ["admin2@example.com"],
+    "orders": [{}],
+    "deliveryFee": 0
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "restaurant_id": 1,
+    "image": "/Pepa.png",
+    "name": "Pepperoni",
+    "description": "Classic Pepperoni Pizza",
+    "category": "Pizzas",
+    "basePrice": 350,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 50
+      },
+      {
+        "name": "Large",
+        "price": 100
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Cheese",
+        "price": 100
+      },
+      {
+        "name": "Extra Pepperoni",
+        "price": 150
+      }
+    ],
+    "_id": 1
+  },
+  {
+    "restaurant_id": 2,
+    "image": "/Cheese.png",
+    "name": "Margherita",
+    "description": "Traditional Margherita Pizza",
+    "category": "Pizzas",
+    "basePrice": 250,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 50
+      },
+      {
+        "name": "Large",
+        "price": 100
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Cheese",
+        "price": 50
+      },
+      {
+        "name": "Extra Basil",
+        "price": 100
+      }
+    ],
+    "_id": 2
+  },
+  {
+    "restaurant_id": 2,
+    "image": "/Vege.png",
+    "name": "Vegetarian",
+    "description": "Loaded with Fresh Vegetables",
+    "category": "Pizzas",
+    "basePrice": 400,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 50
+      },
+      {
+        "name": "Large",
+        "price": 100
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Cheese",
+        "price": 100
+      },
+      {
+        "name": "Extra Vegetables",
+        "price": 50
+      }
+    ],
+    "_id": 3
+  },
+  {
+    "restaurant_id": 3,
+    "image": "/BBQ.png",
+    "name": "BBQ Chicken",
+    "description": "Tangy BBQ Chicken Pizza",
+    "category": "Pizzas",
+    "basePrice": 300,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 50
+      },
+      {
+        "name": "Large",
+        "price": 100
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Cheese",
+        "price": 50
+      },
+      {
+        "name": "Extra Chicken",
+        "price": 100
+      }
+    ],
+    "_id": 4
+  },
+  {
+    "restaurant_id": 1,
+    "image": "/Pineapple.png",
+    "name": "Hawaiian",
+    "description": "Classic Hawaiian Pizza",
+    "category": "Pizzas",
+    "basePrice": 200,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 50
+      },
+      {
+        "name": "Large",
+        "price": 100
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Cheese",
+        "price": 50
+      },
+      {
+        "name": "Extra Pineapple",
+        "price": 100
+      }
+    ],
+    "_id": 5
+  },
+  {
+    "restaurant_id": 1,
+    "image": "/cinnamon.png",
+    "name": "Cinnamon Roll",
+    "description": "Warm and Sweet Cinnamon Treats",
+    "category": "Sweets",
+    "basePrice": 90,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 10
+      },
+      {
+        "name": "Large",
+        "price": 20
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Cinnamon Sugar",
+        "price": 25
+      },
+      {
+        "name": "Extra Icing",
+        "price": 35
+      }
+    ],
+    "_id": 6
+  },
+  {
+    "restaurant_id": 2,
+    "image": "/lava.png",
+    "name": "Chocolate Lava Cake",
+    "description": "Chocolate Cake with Lava Center",
+    "category": "Sweets",
+    "basePrice": 105,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 10
+      },
+      {
+        "name": "Large",
+        "price": 15
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Chocolate Sauce",
+        "price": 30
+      },
+      {
+        "name": "Extra Ice Cream",
+        "price": 46
+      }
+    ],
+    "_id": 7
+  },
+  {
+    "restaurant_id": 3,
+    "image": "/churri.png",
+    "name": "Churros",
+    "description": "Traditional Spanish Fried Dough Pastry",
+    "category": "Sweets",
+    "basePrice": 75,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 10
+      },
+      {
+        "name": "Large",
+        "price": 20
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Cinnamon Sugar",
+        "price": 20
+      },
+      {
+        "name": "Extra Chocolate Sauce",
+        "price": 40
+      }
+    ],
+    "_id": 8
+  },
+  {
+    "restaurant_id": 1,
+    "image": "/fries.png",
+    "name": "French Fries",
+    "description": "Crispy French Fries",
+    "category": "Fried Food",
+    "basePrice": 150,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 10
+      },
+      {
+        "name": "Large",
+        "price": 20
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Fries",
+        "price": 45
+      }
+    ],
+    "_id": 9
+  },
+  {
+    "restaurant_id": 2,
+    "image": "/tender.png",
+    "name": "Chicken Tenders",
+    "description": "Tender Chicken Strips",
+    "category": "Fried Food",
+    "basePrice": 170,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 5
+      },
+      {
+        "name": "Large",
+        "price": 10
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Tenders",
+        "price": 50
+      }
+    ],
+    "_id": 10
+  },
+  {
+    "restaurant_id": 3,
+    "image": "/nugget.png",
+    "name": "Chicken Nuggets",
+    "description": "Bite-sized Chicken Nuggets",
+    "category": "Fried Food",
+    "basePrice": 140,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 5
+      },
+      {
+        "name": "Large",
+        "price": 10
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Nuggets",
+        "price": 60
+      }
+    ],
+    "_id": 11
+  },
+  {
+    "restaurant_id": 2,
+    "image": "/coke.png",
+    "name": "Coca-Cola",
+    "description": "Classic Coca-Cola",
+    "category": "Drinks",
+    "basePrice": 60,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 5
+      },
+      {
+        "name": "Large",
+        "price": 10
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Ice",
+        "price": 9
+      },
+      {
+        "name": "Extra Lemon",
+        "price": 12
+      }
+    ],
+    "_id": 12
+  },
+  {
+    "restaurant_id": 1,
+    "image": "/sprite.png",
+    "name": "Sprite",
+    "description": "Refreshing Sprite",
+    "category": "Drinks",
+    "basePrice": 50,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 5
+      },
+      {
+        "name": "Large",
+        "price": 10
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Ice",
+        "price": 8
+      },
+      {
+        "name": "Extra Lime",
+        "price": 14
+      }
+    ],
+    "_id": 13
+  },
+  {
+    "restaurant_id": 3,
+    "image": "/lipton.png",
+    "name": "Iced Tea",
+    "description": "Refreshing Iced Tea",
+    "category": "Drinks",
+    "basePrice": 70,
+    "sizes": [
+      {
+        "name": "Small",
+        "price": 0
+      },
+      {
+        "name": "Medium",
+        "price": 5
+      },
+      {
+        "name": "Large",
+        "price": 10
+      }
+    ],
+    "extraIngredientPrices": [
+      {
+        "name": "Extra Ice",
+        "price": 7
+      },
+      {
+        "name": "Extra Mint",
+        "price": 15
+      }
+    ],
+    "_id": 14
+  }
+]

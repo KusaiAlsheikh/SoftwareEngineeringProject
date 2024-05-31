@@ -1,0 +1,62 @@
+[
+    {
+        "email": "user1@example.com",
+        "streetAddress": "123 Elm Street",
+        "postalCode": "34000",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "phone": "+90 555 123 4567",
+        "admin": false,
+        "_id": 1
+    },
+    {
+        "email": "user2@example.com",
+        "streetAddress": "456 Maple Avenue",
+        "postalCode": "06790",
+        "city": "Ankara",
+        "country": "Turkey",
+        "phone": "+90 531 987 6543",
+        "admin": false,
+        "_id": 2
+    },
+    {
+        "email": "user3@example.com",
+        "streetAddress": "789 Oak Boulevard",
+        "postalCode": "01230",
+        "city": "Izmir",
+        "country": "Turkey",
+        "phone": "+90 532 456 7890",
+        "admin": false,
+        "_id": 3
+    },
+    {
+        "email": "user4@example.com",
+        "streetAddress": "321 Cedar Street",
+        "postalCode": "03450",
+        "city": "Antalya",
+        "country": "Turkey",
+        "phone": "+90 533 321 9876",
+        "admin": false,
+        "_id": 4
+    },
+    {
+        "email": "admin1@example.com",
+        "streetAddress": "789 Pine Street",
+        "postalCode": "04560",
+        "city": "Bursa",
+        "country": "Turkey",
+        "phone": "+90 536 654 3210",
+        "admin": true,
+        "_id": 5
+    },
+    {
+        "email": "admin2@example.com",
+        "streetAddress": "456 Elm Avenue",
+        "postalCode": "07890",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "phone": "+90 535 789 0123",
+        "admin": true,
+        "_id": 6
+    }
+]

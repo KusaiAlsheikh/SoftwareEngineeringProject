@@ -1,0 +1,158 @@
+[
+  {
+    "userEmail": "user1@example.com",
+    "phone": "+90 555 123 4567",
+    "streetAddress": "123 Elm Street",
+    "postalCode": "34000",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "Restaurant": "Pizza Hut",
+    "createdAt": "2024-04-26T08:30:00.000Z",
+    "cartProducts": [
+      {
+        "image": "/Cheese.png",
+        "name": "Margherita",
+        "category": "Pizza",
+        "basePrice": 250,
+        "size": {
+          "name": "Medium",
+          "price": 50
+        },
+        "extras": [
+          {
+            "name": "Extra Cheese",
+            "price": 50
+          },
+          {
+            "name": "Extra Basil",
+            "price": 100
+          }
+        ]
+      }
+    ],
+    "state": "Delivered",
+    "_id": 1
+  },
+  {
+    "userEmail": "user2@example.com",
+    "phone": "+90 531 987 6543",
+    "streetAddress": "456 Maple Avenue",
+    "postalCode": "06790",
+    "city": "Ankara",
+    "country": "Turkey",
+    "Restaurant": "Domino's Pizza",
+    "createdAt": "2024-04-26T08:30:00.000Z",
+    "cartProducts": [
+      {
+        "image": "/Pepa.png",
+        "name": "Pepperoni",
+        "category": "Pizza",
+        "basePrice": 350,
+        "size": {
+          "name": "small",
+          "price": 50
+        },
+        "extras": [
+          {
+            "name": "Extra Cheese",
+            "price": 100
+          },
+          {
+            "name": "Extra Pepperoni",
+            "price": 150
+          }
+        ]
+      }
+    ],
+    "state": "Preparing",
+    "_id": 2
+  },
+  {
+    "userEmail": "user3@example.com",
+    "phone": "+90 532 456 7890",
+    "streetAddress": "789 Oak Boulevard",
+    "createdAt": "2024-04-26T08:30:00.000Z",
+    "postalCode": "01230",
+    "city": "Izmir",
+    "country": "Turkey",
+    "Restaurant": "Pizza Bulls",
+    "cartProducts": [
+      {
+        "image": "/Pepa.png",
+        "name": "Pepperoni",
+        "category": "Pizza",
+        "basePrice": 350,
+        "size": {
+          "name": "Medium",
+          "price": 50
+        },
+        "extras": [
+          {
+            "name": "Extra Cheese",
+            "price": 100
+          },
+          {
+            "name": "Extra Pepperoni",
+            "price": 150
+          }
+        ]
+      },
+      {
+        "image": "/coke.png",
+        "name": "Coca-Cola",
+        "category": "Dri/nk",
+        "basePrice": 60,
+        "size": {
+          "name": "Large",
+          "price": 100
+        },
+        "extras": [
+          {
+            "name": "Extra Ice",
+            "price": 9
+          },
+          {
+            "name": "Extra Lemon",
+            "price": 12
+          }
+        ]
+      }
+    ],
+    "state": "On the Way",
+    "_id": 3
+  },
+  {
+    "userEmail": "user2@example.com",
+    "phone": "+90 531 987 6543",
+    "streetAddress": "456 Maple Avenue",
+    "postalCode": "06790",
+    "createdAt": "2024-04-26T08:30:00.000Z",
+    "city": "Ankara",
+    "country": "Turkey",
+    "Restaurant": "Pizza Hut",
+    "cartProducts": [
+      {
+        "image": "/Pepa.png",
+        "name": "Pepperoni",
+        "category": "Pizza",
+        "basePrice": 350,
+        "size": {
+          "name": "Small",
+          "price": 20
+        },
+        "extras": [
+          {
+            "name": "Extra Cheese",
+            "price": 100
+          },
+          {
+            "name": "Extra Pepperoni",
+            "price": 150
+          }
+        ]
+      }
+    ],
+    "state": "Canceled",
+    "_id": 4
+  }
+]
